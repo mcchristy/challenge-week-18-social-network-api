@@ -31,8 +31,14 @@ A video Demo:
 
 ## Usage
 
-1. Once the application is running, you can use the provided API endpoints to perform various actions related to users, thoughts, and reactions.
-2. Use a tool like Insomnia Core to interact with the API and send requests to create, read, update, and delete data in the database.
+To use the Social Network API, follow the steps below. Make sure you have Node.js and MongoDB installed on your system.
+1. Clone the repository to your local machine.
+2. Change to the project directory.
+3. Install dependencies using npm.
+4. Set up a ny environment variables, including configuring your MongoDB connection.
+5. Start the server. 
+6. Use an api client, like Insomnia, to test endpoints.
+
 
 ## Contributing
 
@@ -42,4 +48,4 @@ Mary Carmen Christy
 
 If you have any questions or need further assistance, feel free to reach out:
 
-- GitHub: 
+- GitHub: [mcchristy](https://github.com/mcchristy)
